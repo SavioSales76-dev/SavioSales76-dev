@@ -30,8 +30,6 @@ Também trabalho em projetos reais — do wireframe ao deploy — unindo desenvo
 
 ---
 
-![Sávio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SavioSales76-dev&show_icons=true&theme=dark)
-
 ## 🚀 Filosofia
 
 > _"Faça o melhor com o que tem,
