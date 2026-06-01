@@ -1,16 +1,40 @@
-## Hi there 👋
+# Olá 👋, eu sou Sávio Sales
 
-<!--
-**SavioSales76-dev/SavioSales76-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Desenvolvedor Web | Front-end**
+🇧🇷 Brasil
 
-Here are some ideas to get you started:
+Construo **interfaces, sistemas web** com foco em **arquitetura limpa, design systems e código que escala**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Também trabalho em projetos reais — do wireframe ao deploy — unindo desenvolvimento e identidade visual.
+
+---
+
+## 🧠 O que eu faço
+
+- 🎨 Design systems & bibliotecas de componentes
+- 🏗️ Arquitetura front-end & código limpo
+- ⚡ Interfaces web com Vue 3
+- 📐 Tokens de design, tipografia & identidade visual
+- 🛠️ Projetos reais do wireframe ao deploy
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
+
+---
+
+## 🚀 Filosofia
+
+> _"Faça o melhor com o que tem,
+> até que tenha mais, para fazer melhor ainda"_
+
+⭐ Se você gosta do meu trabalho, considere estrelar um repositório.
+
+🤝 Sempre aberto a colaborações, parcerias, e boas idéias.
