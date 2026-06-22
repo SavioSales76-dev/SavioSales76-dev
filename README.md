@@ -11,11 +11,11 @@ Também trabalho em projetos reais — do wireframe ao deploy — unindo desenvo
 
 ## 🧠 O que eu faço
 
-- 🎨 Design systems & bibliotecas de componentes
+- 🎨 Design systems
 - 🏗️ Arquitetura front-end & código limpo
 - ⚡ Interfaces web com Vue 3
 - 📐 Tokens de design, tipografia & identidade visual
-- 🛠️ Projetos reais do wireframe ao deploy
+- 🛠️ Projetos reais do wireframe ao site funcional
 
 ---
 
